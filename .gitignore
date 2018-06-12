@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/CRMP-Trainer/v15/Browse.VC.opendb
+/.vs/CRMP-Trainer/v15/Browse.VC.db
